@@ -1,7 +1,5 @@
 ### Olá! Sou a Ana. 👋
-
 <img align="right" alt="GIF" src="https://github.com/karinecorreia/karinecorreia/blob/main/miau.gif?raw=true" width="500" height="320" />
-
 
 
 
